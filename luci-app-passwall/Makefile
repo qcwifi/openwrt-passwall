@@ -33,9 +33,8 @@ PKG_CONFIG_DEPENDS:= \
 LUCI_TITLE:=LuCI support for PassWall
 LUCI_PKGARCH:=all
 LUCI_DEPENDS:=+coreutils +coreutils-base64 +coreutils-nohup +curl \
-	+chinadns-ng +dns2socks +dns2tcp +dnsmasq-full +ip-full \
-	+libuci-lua +lua +luci-compat +luci-lib-jsonc \
-	+microsocks +resolveip +tcping
+	+dnsmasq-full +ip-full \
+	+microsocks +resolveip
 
 define Package/$(PKG_NAME)/config
 menu "Configuration"
