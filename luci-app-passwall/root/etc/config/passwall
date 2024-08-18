@@ -16,7 +16,7 @@ config global
 	option dns_shunt 'dnsmasq'
 	option use_gfw_list '0'
 	option chn_list '0'
-	option localhost_proxy '0'
+	option localhost_proxy '1'
 	option use_block_list '0'
 	option enabled '0'
 	option direct_dns_mode 'udp'
