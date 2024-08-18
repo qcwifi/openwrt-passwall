@@ -34,7 +34,7 @@ LUCI_TITLE:=LuCI support for PassWall
 LUCI_PKGARCH:=all
 LUCI_DEPENDS:=+coreutils +coreutils-base64 +coreutils-nohup +curl \
 	+dnsmasq-full +ip-full \
-	+microsocks +resolveip
+	+resolveip
 
 define Package/$(PKG_NAME)/config
 menu "Configuration"
