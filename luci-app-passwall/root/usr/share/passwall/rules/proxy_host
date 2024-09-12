@@ -59,10 +59,10 @@ log3-misc-hl.amemv.com
 ntp.msn.cn
 log5-misc-hl.amemv.com
 weixin.qq.com
+szextshort.weixin.qq.com
 abtest3-misc-hl.zijieapi.com
 dataflow.biliapi.com
 minigame5-normal-hl.zijieapi.com
-app.bilibili.com
 graph.oculus.com
 services.gfe.nvidia.com
 pitaya.bytedance.com
@@ -1411,6 +1411,7 @@ p216-quota.icloud.com.cn
 hisuggestion-drcn.ai.dbankcloud.cn
 yysc2.oss-cn-shanghai.aliyuncs.com
 show.bilibili.com
+bilibili.com
 visitor.omnitagjs.com
 api.yhchj.com
 trace.mediago.io
@@ -5038,6 +5039,7 @@ t.y.qq.com
 vip.bz.mgtv.com
 qun.qq.com
 m.bilibili.com
+bilibili.com
 updates.vigem.org
 l2-prod-bili-gs-uma.bilibiligame.net
 open-cms-api.quark.c
@@ -5351,6 +5353,7 @@ download.mcloud.139.com
 dsm01pap005.storage.live.com
 api-cloudgame.mihoyo.com
 act.weixin.qq.com
+szlong.weixin.qq.com
 h-adashx.ut.taobao.cps.amap.com
 r.tsmapi.pay.xiaomi.com
 tsmapi.pay.xiaomi.com
