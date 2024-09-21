@@ -19,10 +19,11 @@ config global
 	option localhost_proxy '1'
 	option use_block_list '0'
 	option enabled '0'
-	option direct_dns_mode 'udp'
-	option direct_dns_udp '223.6.6.6'
-	option dns_mode 'udp'
+	option dns_mode 'dns2tcp'
 	option remote_dns '223.6.6.6'
+	option direct_dns_mode 'dns2tcp'
+	option direct_dns_tcp '223.6.6.6'
+	option use_default_dns 'direct'
 
 config global_haproxy
 	option balancing_enable '0'
