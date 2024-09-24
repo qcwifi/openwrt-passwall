@@ -37,7 +37,9 @@ api.bilibili.com
 assets.msn.cn
 v26-web.douyinvod.com
 browser.events.data.msn.cn
+srtb.msn.cn
 sb.scorecardresearch.com
+p2p-hkg1.discovery.steamserver.net
 img-s.msn.cn
 login.live.com
 ts4.cn.mm.bing.net
@@ -97,7 +99,12 @@ mon.zijieapi.com
 config.mycloud.com
 gs-loc-cn.apple.com
 p31-buy.itunes.apple.com
+www.msftconnecttest.com
+dns.msftncsi.com
+sdk1xyajs.data.kuiniuca.com
+pd.qq.com
 osfsr.lenovomm.com
+cloud-pclb.lenovomm.com
 nsl.lenovo.com.cn
 tnc11-bjlgy.zijieapi.com
 up-hl.3g.qq.com
@@ -243,6 +250,7 @@ mon.snssdk.com
 mimc.chat.xiaomi.net
 meta.pinduoduo.com
 m.pinduoduo.net
+tencent.com
 conn.wemeet.tencent.com
 cdnimg.3g.qq.com
 radio.itunes.apple.com
